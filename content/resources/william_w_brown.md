@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 26c7ed86-dcb3-f8fa-b425-be7faf84303c
 resourcetype: Document
 title: William Wells Brown and the Jefferson and Hemings Scandal
 uid: f4e2be91-e8a3-8fb9-725c-b8b1b6718e6a

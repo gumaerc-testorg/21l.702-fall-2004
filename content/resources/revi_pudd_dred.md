@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 26c7ed86-dcb3-f8fa-b425-be7faf84303c
 resourcetype: Document
 title: "Law and Slave Identity in Dred and Pudd\u2019nhead Wilson"
 uid: 8e0ddc88-c89e-ecc7-ea54-7e4961e155cd
