@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Harriet Beecher Stowe and Mark Twain
 uid: 2773337e-6036-1b12-7eab-1232661f993f
 ---
 Harriet Beecher Stowe, ca. 1880. Mark Twain, ca. 1907. (Images courtesy of the Library of Congress, Prints and Photographs Division [reproduction numbers, LC-USZ62-11212 and LC-USZ62-5513 (b&w film copy negatives)].)
-

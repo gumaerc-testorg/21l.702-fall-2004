@@ -5,6 +5,7 @@ file: /courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: William Wells Brown and the Jefferson and Hemings Scandal
 uid: f4e2be91-e8a3-8fb9-725c-b8b1b6718e6a
 ---
 Example of a student essay. (Courtesy of Kristin Hrabak. Used with permission.)
-
