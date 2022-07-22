@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 26c7ed86-dcb3-f8fa-b425-be7faf84303c
 ---
@@ -32,5 +37,5 @@ This essay will allow you to develop a full-scale treatment of a single author, 
 {{< anchor "student_work" >}}{{< /anchor >}}Examples of Student Work
 --------------------------------------------------------------------
 
-*   William Wells Brown and the Jefferson and Hemings Scandal. ([PDF]({{< baseurl >}}/resources/william_w_brown)) (Courtesy of Kristin Hrabak. Used with permission.)
-*   Law and Slave Identity in Dred and Pudd'nhead Wilson. ([PDF]({{< baseurl >}}/resources/revi_pudd_dred)) (Courtesy of Kristin Hrabak. Used with permission.)
+*   William Wells Brown and the Jefferson and Hemings Scandal. ({{% resource_link f4e2be91-e8a3-8fb9-725c-b8b1b6718e6a "PDF" %}}) (Courtesy of Kristin Hrabak. Used with permission.)
+*   Law and Slave Identity in Dred and Pudd'nhead Wilson. ({{% resource_link 8e0ddc88-c89e-ecc7-ea54-7e4961e155cd "PDF" %}}) (Courtesy of Kristin Hrabak. Used with permission.)
