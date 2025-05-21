@@ -17,7 +17,7 @@ uid: 6559d68d-c269-d4d1-a8d3-98161c0ad34b
 
 [University Library at University of North Carolina at Chapel Hill: Documenting the American South](http://docsouth.unc.edu/index.html)
 
-[Library of Congress: Africans in America](http://memory.loc.gov/learn/features/immig/african4.html)
+[Library of Congress: Africans in America](https://www.loc.gov/collections/)
 
 ## Frederick Douglass
 
