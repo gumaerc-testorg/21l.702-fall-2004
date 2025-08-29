@@ -47,6 +47,6 @@ uid: 6559d68d-c269-d4d1-a8d3-98161c0ad34b
 
 [PBS: Mark Twain](http://www.pbs.org/marktwain/index.html)
 
-[University of Virginia: Mark Twain in His Times](http://etext.lib.virginia.edu/railton/index2.html)
+[University of Virginia: Mark Twain in His Times](https://twain.lib.virginia.edu/index2.html)
 
 [The Mark Twain House & Museum](http://www.marktwainhouse.org/)
