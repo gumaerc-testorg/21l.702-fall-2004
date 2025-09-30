@@ -14,17 +14,17 @@ uid: 441ceec2-5d3c-a0e9-55ef-85a42550f659
 
 Gates, Jr., Henry Louis, ed. *The Classic Slave Narratives*. New York: Mentor/Penguin, 1987. ISBN: 0451627261.
 
-\[Download [*Narrative of the Life of Frederick Douglass*](http://www.gutenberg.org/etext/23) by Frederick Douglass, a version of Frederick Douglass's *Narrative*, or download [*Incidents in the Life of a Slave Girl*](http://www.gutenberg.org/etext/11030) by Harriet Ann Jacobs, a version of Harriet Jacobs's *Incidents in the Life of a Slave Girl* from Project Gutenberg.\]
+\[Download {{% resource_link "0a70fc0e-670d-4b74-a33c-5c6023bd2321" "*Narrative of the Life of Frederick Douglass*" %}} by Frederick Douglass, a version of Frederick Douglass's *Narrative*, or download {{% resource_link "a22fccff-0e59-4148-9c51-2c748dcd3a69" "*Incidents in the Life of a Slave Girl*" %}} by Harriet Ann Jacobs, a version of Harriet Jacobs's *Incidents in the Life of a Slave Girl* from Project Gutenberg.\]
 
 Stowe, Harriet Beecher. *Uncle Tom's Cabin*. New York: Penguin Books, 1986. ISBN: 0140390030.
 
-\[Download [*Uncle Tom's Cabin*](http://www.gutenberg.org/etext/203) by Harriet Beecher Stowe, a version of this text from Project Gutenberg.\]
+\[Download {{% resource_link "a18ddf14-c12a-41d1-8839-e7337d88524b" "*Uncle Tom's Cabin*" %}} by Harriet Beecher Stowe, a version of this text from Project Gutenberg.\]
 
 Melville, Herman. "Benito Cereno." In *The Heath Anthology of American Literature.* Selected and Edited by Paul Lauter, et al. New York: Houghton Mifflin, 2001. ISBN: 0618109196.
 
 Gates, Jr., Henry Louis, ed. *Three Classic African-American Novels*. New York: Vintage Books, 1990. ISBN: 0679727426.
 
-\[Download [*Clotelle; or, the Colored Heroine, a tale of the Southern States; or, the President's Daughter*](http://www.gutenberg.org/etext/241), a revised version of William Wells Brown's *Clotel*, download [*The Marrow of Tradition*](http://www.gutenberg.org/etext/11228), a version of Charles Chesnutt's *The Marrow of Tradition*, or download [*Iola Leroy*](http://www.gutenberg.org/etext/12352), a version of Frances Harper's *Iola Leroy* from Project Gutenberg.\]
+\[Download {{% resource_link "f954fab7-73fa-4485-a0a6-7ee6481b4512" "*Clotelle; or, the Colored Heroine, a tale of the Southern States; or, the President's Daughter*" %}}, a revised version of William Wells Brown's *Clotel*, download {{% resource_link "3887923d-34b9-441f-a077-f93b6f700363" "*The Marrow of Tradition*" %}}, a version of Charles Chesnutt's *The Marrow of Tradition*, or download {{% resource_link "d0808b0f-88bf-4dd6-b571-19226b3644a8" "*Iola Leroy*" %}}, a version of Frances Harper's *Iola Leroy* from Project Gutenberg.\]
 
 Stowe, Harriet Beecher. *Dred*. New York: Penguin Books, 2000. ISBN: 0140439048.
 
@@ -32,11 +32,11 @@ Delany, Martin. *Blake: or, the Huts of America*. Boston: Beacon Press, 1970. IS
 
 Twain, Mark. *The Adventures of Huckleberry Finn*. New York: Penguin Books, 1986. ISBN: 0140390464.
 
-\[Download [*The Adventures of Huckleberry Finn*](http://www.gutenberg.org/etext/76) by Mark Twain, a version of this text from Project Gutenberg.\]
+\[Download {{% resource_link "b39edaeb-8da4-4759-8125-04b90a12134c" "*The Adventures of Huckleberry Finn*" %}} by Mark Twain, a version of this text from Project Gutenberg.\]
 
 Twain, Mark. *Pudd'nhead Wilson and Other Tales*. Oxford and New York: Oxford University Press, 1992. ISBN: 0192818066.
 
-\[Download [*Pudd'nhead Wilson*](http://www.gutenberg.org/etext/9035) by Mark Twain, a version of this text from Project Gutenberg.\]
+\[Download {{% resource_link "32848851-2cc4-4fdb-9476-9e0b05befbb2" "*Pudd'nhead Wilson*" %}} by Mark Twain, a version of this text from Project Gutenberg.\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
